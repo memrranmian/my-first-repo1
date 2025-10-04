@@ -1,3 +1,10 @@
-# my-first-repo1
-# checking staging
-# new line
+# My First Repository
+
+This is the main README file.
+
+## Project Description
+A simple repository for learning Git.
+
+## Main Branch Updates
+- Enhanced main functionality
+- Improved performance
