@@ -1,0 +1,2 @@
+This is a feature file
+This is some new content added to feature.txt
